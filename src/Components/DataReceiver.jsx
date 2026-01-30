@@ -3,7 +3,7 @@ import React from 'react'
 function DataReceiver(Praveen) {
   return (
     <div>
-      <h1>NAME:{Praveen.name}----ID:{Praveen.id}-------{Praveen.children}</h1>
+      <h1>FULLNAME:{Praveen.name}----ID:{Praveen.id}-------{Praveen.children}</h1>
 
     </div>
   )
