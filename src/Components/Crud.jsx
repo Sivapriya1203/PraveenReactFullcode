@@ -143,7 +143,7 @@ const handleClick=()=>{
         <br />
 
         <input type="text" value={title} onChange={(e)=>{setTitle(e.target.value)}} /> <br />
-        <button onClick={handleClick}>CLICK</button>
+        <button onClick={handleClick}>CLICKing</button>
     
 
 
